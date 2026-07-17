@@ -15,6 +15,16 @@ This tool enables seamless VPN and proxy connection sharing via multiple protoco
 
 ---
 
+## 📸 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6499c63d-d87c-4dc3-b921-4cd3aab951f3" alt="Sodium App Main Screen" width="220" />
+  <img src="https://github.com/user-attachments/assets/b3a51d51-9b4d-4e39-a075-827b33b88811" alt="Sodium App Connection Status" width="220" />
+  <img src="https://github.com/user-attachments/assets/407919a0-2b6c-4fc0-82d0-1a8aa167ed04" alt="Sodium App Settings" width="220" />
+  <img src="https://github.com/user-attachments/assets/e0e00783-caf7-4c1c-a0d5-1217b8a0c2fe" alt="Sodium App Features" width="220" />
+</p>
+
+---
+
 ## 🛠️ How to Share Your VPN Connection
 
 The application offers two flexible sharing methods. You can use them simultaneously or choose the one that best fits your workflow:
